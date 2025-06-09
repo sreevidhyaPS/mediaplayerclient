@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Col, Row } from 'react-bootstrap'
-import AddVideo from '../components/Addvideo'
+import AddVideo from '../components/AddVideo'   
 import VideoCard from '../components/VideoCard'
 import CategoryList from '../components/Categorylist'
 import { Link } from 'react-router-dom'
