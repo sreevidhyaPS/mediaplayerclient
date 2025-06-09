@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { Col, Row } from 'react-bootstrap'
 import AddVideo from '../components/AddVideo'   
 import VideoCard from '../components/VideoCard'
-import CategoryList from '../components/Categorylist'
+import CategoryList from '../components/CategoryList'
 import { Link } from 'react-router-dom'
 import { getVideoListApi } from '../services/allApis'
 
