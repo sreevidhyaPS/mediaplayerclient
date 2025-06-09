@@ -1,0 +1,20 @@
+MEDIAPLAYER = React+jsonserver
+
+1.authentication
+2.user dashboard
+3.add video
+4.list video
+5.play video
+6.delete video
+7.add category
+8.list categories
+9.remove category
+10.add video to category
+11.watch history
+
+
+1.landing
+2.login
+3.reg
+4.dashboard
+5.history
